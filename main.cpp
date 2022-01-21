@@ -32,7 +32,7 @@ int num_of_words(string& s){
             n++;
         }
     }
-    n++;//en sonda . var boþluk yok
+    n++;
     return n;
 }
 string remove_punc(string& s){
